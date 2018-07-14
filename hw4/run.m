@@ -1,5 +1,5 @@
 %%% ADSP_HW4(1)  %%%%%%%%%%%%%%%%
-%%% ¹q¾÷ºÓ¤@  r06921048  §õ¤Í§Á %%%%
+%%% é›»æ©Ÿç¢©ä¸€ r06921048  æå‹å² %%%%
 fig1 = double(imread('/home/jameslee/Desktop/2018adsp/Pic/47.gif'))* (1/255.0);
 % The path should be modified under different environment
 
