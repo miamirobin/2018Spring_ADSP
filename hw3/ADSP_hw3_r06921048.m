@@ -1,6 +1,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% HW3 (1)                   %%%   
-%%% r06921048  ¹q¾÷ºÓ¤@ §õ¤Í§Á   %%%
+%%% r06921048  æå‹å²          %%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 A=im2double(imread('/home/jameslee/Downloads/1.jpg'));
 % The path should be modified under different environment
