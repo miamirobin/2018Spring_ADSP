@@ -1,4 +1,4 @@
-    % ¹q¾÷ºÓ¤@  r06921048 §õ¤Í§Á
+    % é›»æ©Ÿç¢©ä¸€ r06921048 
     k=15;  % k is a input parameter
     Hd=[0,-0.8*1i,-1i*ones(1,k-2),-0.6*1j,0.6*1j,1j*ones(1,k-2),0.8*1i];
     h=fftshift(ifft(Hd));
